@@ -14,6 +14,10 @@
 
 ps:[ct-adc/webpack](https://github.com/ct-adc/webpack)是根据项目目录结构规范而制定的脚手架。
 
+** step3: 项目提测**
+
+请遵循[提测流程](https://github.com/IIIIU/sane/blob/master/提测流程.md)进行项目提测.
+
 **step3: 项目维护**
 
 请遵循[团队项目管理](https://github.com/IIIIU/sane/blob/master/团队项目管理.md)来管理项目。
